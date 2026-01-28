@@ -35,3 +35,5 @@ Quelques balise a connaitre :
 - `<ul></ul>`
 - ``
 - ``
+
+le js permet de rendre une page HTML plus dynamique notament grace au formulairs `<form></form>`
